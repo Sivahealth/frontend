@@ -231,10 +231,10 @@ body.activities-background {
   .Table_container{
     position: absolute;
     top:144px;
-    height:600px ;
+    height:580px ;
     left:25px;
     overflow-y:scroll;
-    width: 1000px;
+    width: 1200px;
     
   }
 

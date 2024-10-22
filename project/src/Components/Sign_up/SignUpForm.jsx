@@ -100,7 +100,7 @@ const SignUpForm = () => {
                   <option value="" disabled>Select</option>
                   <option value="Doctor">Doctor</option>
                   <option value="Employee">Employee</option>
-                  <option value="Patient">Patient</option>
+                  
                 </select>
               </div>
               <div className="input-group1">
